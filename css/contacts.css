@@ -102,6 +102,7 @@
 	width: 100%;
 	min-height: 800px;
 	height: calc(100% + 210px);
+	border: none;
 	margin: -105px 0;
 }
 
